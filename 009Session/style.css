@@ -1,0 +1,30 @@
+/* 047.js
+.done {
+    color: gray;
+    text-decoration: line-through;
+} */
+
+
+/*  048.js
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: #ddd;
+}
+
+.card {
+  border: 1px solid gray;
+  padding: 1rem;
+  border-radius: 8px;
+  background-color: white;
+}
+
+section {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+} */

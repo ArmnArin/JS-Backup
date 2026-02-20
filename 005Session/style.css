@@ -1,0 +1,68 @@
+/* 033.js
+button {
+    border: 1px solid lightblue;
+    color: lightblue;
+    padding: 8px 36px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+div {
+    display: none;
+} */
+
+/* 031.js
+section {
+    display: flex;
+    width: 80%;
+    margin: 3rem auto;
+    justify-content: space-evenly;
+    div {
+        width: 150px;
+        height: 150px;
+        border-radius: 8px;
+        cursor: pointer;
+    }
+} */
+
+
+/* 030.js
+#big img {
+    width: 700px;
+    height: 400px;
+    margin-bottom: 100px;
+}
+#thumbs img {
+    width: 200px;
+    height: 120px;
+}
+body {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+} */
+
+
+/* 032.js , 034.js */
+section {
+    display: grid;
+    grid-template-columns: repeat(4 , 1fr);
+    gap: 1px;
+    width: 600px;
+    div {
+        height: 150px;
+        background-color: gray;
+        cursor: pointer;
+        font-size: 64px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

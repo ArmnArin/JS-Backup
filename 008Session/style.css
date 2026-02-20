@@ -1,0 +1,17 @@
+/* 045.js */
+span {
+    padding: 4px 8px;
+    background-color: #ddd;
+    border-radius: 4px;
+    margin: 1rem;
+}
+
+/* 039.js
+.valid {
+    border: 1px solid green;
+    color: green;
+}
+.invalid {
+    border: 1px solid red;
+    color: red;
+} */
